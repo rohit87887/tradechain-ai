@@ -2,6 +2,8 @@
 
 **Analyze. Verify. Trade Smarter.**
 
+**Live demo: https://rohit87887.github.io/tradechain-ai/**
+
 An AI-powered trading journal and portfolio performance analyser with blockchain-verified performance records and smart-contract-style strategy automation.
 
 This is a **frontend-only prototype**: there is no backend, database or real wallet. Blockchain anchoring and smart-contract execution are **simulated**; trade-record hashes are real SHA-256 values computed in the browser.
